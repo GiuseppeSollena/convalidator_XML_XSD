@@ -1,0 +1,18 @@
+{
+	"numero":" ",
+	"data":" ",
+	"CF":" ",
+	"elenco_prodotti": {
+		"quantità":" ", 
+		"prodotto":" ", 
+		"prezzo_cad":" ", 
+		"importo":" ", 
+		"iva":" ", 
+		"totale":" "
+	},
+
+	"imponibile_fattura":" ",
+	"iva_fattura":" ",
+	"totale":" "
+}
+
